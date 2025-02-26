@@ -27,6 +27,11 @@ body {
   gap: 24px;
   margin: auto;
   border-bottom: #444 solid 1px;
+  background: #1E1E1E;
+
+  position: sticky;
+  top: 0;
+  
 
   & .navbar {
     display: flex;
